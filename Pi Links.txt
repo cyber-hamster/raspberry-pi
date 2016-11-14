@@ -1,0 +1,5 @@
+Raspberry Pi Links
+1) Set a Static IP address:
+https://www.modmypi.com/blog/how-to-give-your-raspberry-pi-a-static-ip-address-update
+
+
